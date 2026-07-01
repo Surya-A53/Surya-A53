@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Surya</h1>
-<h3 align="center">Embedded Systems & IoT Developer | ECE Student | Product Designer</h3>
+<h1 align="center">Hi 👋, I'm Surya T</h1>
+<h3 align="center">Embedded Systems Developer | IoT | PCB Design | Product Prototyping</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Embedded+Systems+Enthusiast;IoT+%7C+PCB+Design+%7C+3D+Product+Development;STM32+%7C+ESP32+%7C+KiCad+%7C+Fusion+360;Building+Things+That+Sense%2C+Think+%26+Connect" alt="Typing SVG" />
+  <img src="./assets/banner.svg" width="700" alt="Surya working on electronics" />
+</p>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=B.E+ECE+%40+KSRCT%2C+Tiruchengode+(2024-2028);STM32+%7C+ESP32+%7C+KiCad+%7C+Fusion+360;National+Finalist+-+AI+for+Good+Fest+2026;IIT+Roorkee+Robotics+Qualifier" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,7 +19,10 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://ecosort-one.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-EcoSort-2ea3f7?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Live%20Demo-EcoSort-2ea3f7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://bit.ly/4voND2J" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Proof%20of%20Attachment-orange?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
 
@@ -23,13 +30,14 @@
 
 ### 🧠 About Me
 
-- 🎓 B.E. Electronics & Communication Engineering, K.S. Rangasamy College of Technology *(2024 – 2028)*
-- ⚙️ Specializing in **Embedded Systems, IoT, PCB Design & 3D Product Development**
-- 🏆 National-Level AI Hackathon Finalist
-- 🤖 IIT Roorkee Robotics Qualifier
-- 🌱 Currently exploring advanced embedded firmware & product prototyping
-- 💬 Ask me about STM32, ESP32, KiCad or Fusion 360
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/surya-t-67a25232a)
+- 🎓 B.E. Electronics & Communication Engineering @ **K.S. Rangasamy College of Technology** (2024–2028) | CGPA: **7.77**
+- ⚙️ Hands-on with **Embedded Systems, IoT, PCB Design, STM32 Development, Product Design & Rapid Prototyping**
+- 🏆 National Finalist — **AI for Good Fest 2026**, New Delhi
+- 🤖 Qualifier — **IIT Roorkee Cognizance Robotics Competition**
+- 🥇 Winner — Smart India Hackathon (college-level internal selection)
+- 🧑‍🏫 Facilitated hands-on workshops in **3D Design & Printing** and **PCB Design (KiCad)** for fellow students
+- 🛠️ Freelance Product Design & 3D Printing Consultant — built a custom product enclosure for a product-based company
+- 📫 Reach me: **surya.t.899700@gmail.com** | [LinkedIn](https://linkedin.com/in/surya-t-67a25232a)
 
 ---
 
@@ -38,25 +46,51 @@
 <p align="left">
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
   <img src="https://img.shields.io/badge/Fusion%20360-F57C00?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TinkerCAD-1B98F5?style=for-the-badge&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20(Ubuntu)-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git%2FGitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white" />
 </p>
+
+**Protocols:** UART · I2C · SPI &nbsp;|&nbsp; **Hardware Skills:** SMD & Through-Hole Soldering, Board Testing, FDM 3D Printing, PCB Fabrication (Chemical Etching), Product Enclosure Design
 
 ---
 
-### 🚀 Current Projects
+### 🚀 Featured Projects
 
-- 🌍 **[EcoSort](https://ecosort-one.vercel.app)** — IoT Waste Monitoring System built with ESP32, Firebase & HTML/CSS. [Live Demo](https://ecosort-one.vercel.app)
-- 🎗️ **Multilingual Tactile Book** — 3D-designed enclosure for a disabled-accessibility freelance project (Client: Nexyuga)
-- 🔧 More embedded + PCB projects coming soon — stay tuned!
+- 🦾 **[Voice-Activated Orthosis](https://github.com/Surya-A53)** — `ESP32 · IoT · Hardware Design`
+  Hardware Designer & ESP32 Developer in a 3-member team; integrated ESP32-based control layer for actuator response in a voice command pipeline. *(CMR College Hackathon, Bangalore)*
+
+- 🌍 **[IoT Waste Monitoring System — EcoSort](https://ecosort-one.vercel.app)** — `ESP32 · Firebase · HTML/CSS`
+  Full-stack smart waste segregation system with a live sensor-data pipeline synced to Firebase Realtime Database. Top placement at college-level **Smart India Hackathon** selection.
+
+- ⚡ **STM32F411E LED Blink — Bare Metal** — `STM32 · Embedded C · Linux`
+  Register-level GPIO configuration on STM32F411E-DISCO without HAL abstraction; custom udev rules and ST-Link flashing on Ubuntu.
+
+- 💊 **Smart Medicine Dispenser** — `Fusion 360 · Product Design · Rapid Prototyping`
+  Complete mechanical assembly & structural housing for an automated dispensing unit, with internal compartments for actuators and electronics.
+
+- 🚁 **Mini Drone Frame** — `Fusion 360 · FDM Printing`
+  Custom drone frame engineered from scratch; cross-functional build with AIML & MCT department students.
+
+---
+
+### 🏅 Certifications & Competitions
+
+| Program | Provider | Details |
+|---|---|---|
+| Embedded Systems & IoT Boot Camp | C-DAC | 5-day hands-on cert; UBIMOTE platform, real-time GPIO/sensor/buzzer interfacing |
+| Industry 4.0 & Industrial IoT (Elite) | NPTEL / IIT Kharagpur | 12-week course, 73% — Elite category |
+| Cognizance Robotics Competition | IIT Roorkee | Soccer Bot & Line Follower — cleared opening round |
+| AI for Good Hackathon (NSCIF 2026) | EMPI, New Delhi | National-level finalist |
 
 ---
 
@@ -71,24 +105,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-A53&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-A53&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-### 🧰 Tools I Work With
-
-<p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
