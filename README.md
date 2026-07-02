@@ -1,6 +1,6 @@
 <!-- 1. Top GIF Banner -->
 <p align="center">
-  <img src="https://tenor.com/s2683mRxUIa.gif" width="100%" alt="Banner" />
+  <div class="tenor-gif-embed" data-postid="15851269417776246316" data-share-method="host" data-aspect-ratio="2.3271" data-width="100%"><a href="https://tenor.com/view/kratos-mimir-god-of-war-god-of-war-ragnarok-god-of-war-ragnarok-valhalla-gif-15851269417776246316">Kratos Mimir GIF</a>from <a href="https://tenor.com/search/kratos-gifs">Kratos GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" />
 </p>
 
 <!-- 2. Profile Views -->
