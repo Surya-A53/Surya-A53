@@ -35,7 +35,7 @@ Hardware-software hybrid engineer specializing in embedded firmware, IoT archite
 
 ### 🧠 About Me
 
-- 🎓 B.E. ECE @ **K.S. Rangasamy College of Technology** (2024–2028) | CGPA: **7.77**
+- 🎓 B.E. ECE @ **K.S. Rangasamy College of Technology** (2024–2028) 
 - ⚙️ Hands-on with **Embedded Systems, IoT, PCB Design, STM32 Development, Product Design & Rapid Prototyping**
 - 🏆 National Finalist — **AI for Good Fest 2026**, New Delhi
 - 🤖 Qualifier — **IIT Roorkee Cognizance Robotics Competition**
