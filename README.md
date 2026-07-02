@@ -18,8 +18,7 @@
 
 ### I'm Surya T 🙋‍♂️
 
-B.E. Electronics & Communication Engineering student at K.S. Rangasamy College of Technology (2024–2028), CGPA **7.77**. I build things at the intersection of hardware and software — embedded firmware, IoT systems, PCB design, and 3D-printed product prototypes. National finalist at AI for Good Fest 2026, and a robotics qualifier at IIT Roorkee Cognizance.
-
+Hardware-software hybrid engineer specializing in embedded firmware, IoT architecture, and PCB-to-product design. Currently pursuing B.E. ECE at K.S. Rangasamy College of Technology (2024–2028). Recognized as a National Finalist at AI for Good Fest 2026 and a Robotics Qualifier at IIT Roorkee Cognizance — always shipping something that works in the real world
 </td>
 <td width="40%" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFvZDlyMDU1aDY0azF0eHNyazBxOW92cDluN3d3aXpvdTZueTRsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Intro GIF" />
