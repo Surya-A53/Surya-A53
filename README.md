@@ -1,43 +1,49 @@
-<h1 align="center">Hi 👋, I'm Surya T</h1>
-<h3 align="center">Embedded Systems Developer | IoT | PCB Design | Product Prototyping</h3>
-
+<!-- 1. Top GIF Banner -->
 <p align="center">
-  <img src="./assets/banner.svg" width="700" alt="Surya working on electronics" />
+  <img src="https://tenor.com/s2683mRxUIa.gif" width="100%" alt="Banner" />
 </p>
 
+<!-- 2. Profile Views -->
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=B.E+ECE+%40+KSRCT%2C+Tiruchengode+(2024-2028);STM32+%7C+ESP32+%7C+KiCad+%7C+Fusion+360;National+Finalist+-+AI+for+Good+Fest+2026;IIT+Roorkee+Robotics+Qualifier" alt="Typing SVG" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Surya-A53&label=Profile%20Views&color=2ea3f7&style=for-the-badge" alt="Surya-A53 visitor badge" />
 </p>
 
+<!-- 3. Hey, Welcome -->
+<h1 align="center">Hey, Welcome 👋</h1>
+
+<!-- 4. Intro box with side GIF -->
+<table>
+<tr>
+<td width="60%" valign="middle">
+
+### I'm Surya T 🙋‍♂️
+
+B.E. Electronics & Communication Engineering student at K.S. Rangasamy College of Technology (2024–2028), CGPA **7.77**. I build things at the intersection of hardware and software — embedded firmware, IoT systems, PCB design, and 3D-printed product prototypes. National finalist at AI for Good Fest 2026, and a robotics qualifier at IIT Roorkee Cognizance.
+
+</td>
+<td width="40%" align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFvZDlyMDU1aDY0azF0eHNyazBxOW92cDluN3d3aXpvdTZueTRsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Intro GIF" />
+</td>
+</tr>
+</table>
+
+<!-- 5. Blinking tagline -->
 <p align="center">
-  <a href="https://linkedin.com/in/surya-t-67a25232a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Surya-A53" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://ecosort-one.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-EcoSort-2ea3f7?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://bit.ly/4voND2J" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Proof%20of%20Attachment-orange?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=Embedded+Systems+Engineer;IoT+Enthusiast;PCB+Design+%7C+KiCad;Product+Prototyping+%7C+Fusion+360;Turning+Circuits+Into+Ideas" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 B.E. Electronics & Communication Engineering @ **K.S. Rangasamy College of Technology** (2024–2028) | CGPA: **7.77**
+- 🎓 B.E. ECE @ **K.S. Rangasamy College of Technology** (2024–2028) | CGPA: **7.77**
 - ⚙️ Hands-on with **Embedded Systems, IoT, PCB Design, STM32 Development, Product Design & Rapid Prototyping**
 - 🏆 National Finalist — **AI for Good Fest 2026**, New Delhi
 - 🤖 Qualifier — **IIT Roorkee Cognizance Robotics Competition**
 - 🥇 Winner — Smart India Hackathon (college-level internal selection)
-- 🧑‍🏫 Facilitated hands-on workshops in **3D Design & Printing** and **PCB Design (KiCad)** for fellow students
-- 🛠️ Freelance Product Design & 3D Printing Consultant — built a custom product enclosure for a product-based company
-- 📫 Reach me: **surya.t.899700@gmail.com** | [LinkedIn](https://linkedin.com/in/surya-t-67a25232a)
+- 🧑‍🏫 Facilitated hands-on workshops in **3D Design & Printing** and **PCB Design (KiCad)**
+- 🛠️ Freelance Product Design & 3D Printing Consultant — custom product enclosure for a product-based company
+- 📫 **surya.t.899700@gmail.com** | [LinkedIn](https://linkedin.com/in/surya-t-67a25232a) | [Portfolio](https://bit.ly/4voND2J)
 
 ---
 
@@ -60,13 +66,13 @@
   <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white" />
 </p>
 
-**Protocols:** UART · I2C · SPI &nbsp;|&nbsp; **Hardware Skills:** SMD & Through-Hole Soldering, Board Testing, FDM 3D Printing, PCB Fabrication (Chemical Etching), Product Enclosure Design
+**Protocols:** UART · I2C · SPI &nbsp;|&nbsp; **Hardware:** SMD & Through-Hole Soldering, Board Testing, FDM 3D Printing, PCB Fabrication (Chemical Etching), Product Enclosure Design
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects *(from my resume)*
 
-- 🦾 **[Voice-Activated Orthosis](https://github.com/Surya-A53)** — `ESP32 · IoT · Hardware Design`
+- 🦾 **Voice-Activated Orthosis** — `ESP32 · IoT · Hardware Design`
   Hardware Designer & ESP32 Developer in a 3-member team; integrated ESP32-based control layer for actuator response in a voice command pipeline. *(CMR College Hackathon, Bangalore)*
 
 - 🌍 **[IoT Waste Monitoring System — EcoSort](https://ecosort-one.vercel.app)** — `ESP32 · Firebase · HTML/CSS`
@@ -81,8 +87,6 @@
 - 🚁 **Mini Drone Frame** — `Fusion 360 · FDM Printing`
   Custom drone frame engineered from scratch; cross-functional build with AIML & MCT department students.
 
----
-
 ### 🏅 Certifications & Competitions
 
 | Program | Provider | Details |
@@ -94,27 +98,23 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-A53&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Surya-A53&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-A53&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-A53&theme=tokyonight&hide_border=true" />
-</p>
-
-### 📈 Contribution Graph
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-A53&theme=react-dark&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Surya-A53&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Surya-A53&label=Profile%20Views&color=2ea3f7&style=for-the-badge" alt="Surya-A53 visitor badge" />
-</p>
-
-<p align="center"><i>⚡ "Turning circuits into ideas, and ideas into products."</i></p>
+<p align="center"><i>✨ "Do it out of love, not for love." ✨</i></p>
